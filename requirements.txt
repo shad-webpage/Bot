@@ -1,2 +1,2 @@
-python-telegram-bot==20.5
+python-telegram-bot
 python-dotenv==1.0.0  # اختیاری برای مدیریت متغیرهای محیطی
