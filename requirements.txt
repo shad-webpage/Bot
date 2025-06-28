@@ -1,3 +1,3 @@
-python-telegram-bot==13.7
+python-telegram-bot==20.5
+python-dotenv==1.0.0  # اختیاری برای مدیریت متغیرهای محیطی
 gunicorn
-imghdr
