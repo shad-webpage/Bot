@@ -5,7 +5,7 @@ import threading
 import asyncio
 
 # تنظیمات اولیه
-TOKEN = "توکن_ربات_تلگرام_شما"
+TOKEN = "7868257148:AAEGifr41d3jA_Cvf72sM1BaPWOy4eiFUfM"
 WEBHOOK_URL = "آدرس_وبهوک_شما"  # در صورت استفاده از وبهوک
 PORT = 8443  # پورت برای وبهوک (اختیاری)
 
